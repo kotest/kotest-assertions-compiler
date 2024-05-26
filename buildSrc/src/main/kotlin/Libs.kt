@@ -8,7 +8,7 @@ object Libs {
    }
 
    object Tschuchortdev {
-      const val kotlinCompileTesting = "com.github.tschuchortdev:kotlin-compile-testing:1.4.5"
+      const val kotlinCompileTesting = "com.github.tschuchortdev:kotlin-compile-testing:1.6.0"
    }
 
    object Kotest {
