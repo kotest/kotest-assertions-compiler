@@ -12,7 +12,7 @@ object Ci {
    }
 
    object Tschuchortdev {
-      const val kotlinCompileTesting = "com.github.tschuchortdev:kotlin-compile-testing:1.4.2"
+      const val kotlinCompileTesting = "com.github.tschuchortdev:kotlin-compile-testing:1.6.0"
    }
 
    private val releaseVersion = System.getenv("RELEASE_VERSION")
