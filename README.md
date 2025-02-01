@@ -1,5 +1,7 @@
 # kotest-assertions-compiler
 
+**Migrated to main kotest repo**
+
 Kotest assertions wrapping [kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 See [docs](https://kotest.io/docs/assertions/compiler-matchers.html).
